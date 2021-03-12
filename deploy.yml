@@ -1,0 +1,10 @@
+---
+- name: Copy jar file to root
+  hosts: remoteserver
+  tasks:
+  - copy:
+      src: ./target/Calculator_DevOps_SPE-1.0-SNAPSHOT.jar
+      dest: ~/
+
+~                                                                                                                                             
+~                           
