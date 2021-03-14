@@ -1,2 +1,154 @@
 21:21:20.898 [main] INFO  iiitb.ac.in.Main - Number for square root:23.0
 21:21:25.703 [main] INFO  iiitb.ac.in.Main - Base and exponent are :4.0 ,4.0
+21:16:10.362 [main] ERROR iiitb.ac.in.Main - Factorial of negative numbers is not possible!Factorial of negative numbers is not possible!
+21:17:20.314 [main] ERROR iiitb.ac.in.Main - Factorial of negative numbers is not possible!Factorial of negative numbers is not possible!
+21:25:33.648 [main] ERROR iiitb.ac.in.Main - Factorial of negative numbers is not possible in catch!
+21:54:49.792 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10 ,1000.0
+21:54:49.812 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10.0 ,3.0
+21:54:49.813 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10.0 ,3.0
+21:54:49.814 [main] INFO  iiitb.ac.in.Main - Number for square root:81.0
+21:54:49.816 [main] INFO  iiitb.ac.in.Main - Number for square root:81.0
+21:55:15.229 [main] INFO  iiitb.ac.in.Main - Number for square root:-3.0
+21:55:15.233 [main] ERROR iiitb.ac.in.Main - Square root can't be negative or 0 Number is either 0 or less than 0
+21:55:35.994 [main] ERROR iiitb.ac.in.Main - Factorial of negative numbers is not possible in catch!
+21:55:42.749 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10 ,-4.0
+21:55:42.749 [main] ERROR iiitb.ac.in.Main - Log of negatives is not defined.
+21:55:55.346 [main] INFO  iiitb.ac.in.Main - Base and exponent are :-9.0 ,3.0
+21:55:55.346 [main] ERROR iiitb.ac.in.Main - Base should be positive integer. 
+21:56:03.495 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10 ,9.0
+21:56:26.637 [main] INFO  iiitb.ac.in.Main - Base and exponent are :3.0 ,-2.0
+21:58:26.448 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10 ,1000.0
+21:58:26.459 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10.0 ,3.0
+21:58:26.460 [main] INFO  iiitb.ac.in.Main - Base and exponent are :10.0 ,3.0
+21:58:26.468 [main] INFO  iiitb.ac.in.Main - Number for square root:81.0
+21:58:26.468 [main] INFO  iiitb.ac.in.Main - Number for square root:81.0
+14/Mar/2021:10:02:10 930 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,1000.0
+14/Mar/2021:10:02:10 942 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:10:02:10 943 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:10:02:10 945 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:10:02:10 946 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:10:02:21 382 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:3.0
+14/Mar/2021:10:02:32 096 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :3.0 ,4.0
+14/Mar/2021:10:02:39 301 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :2.0 ,3.0
+14/Mar/2021:10:02:46 558 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,89.0
+14/Mar/2021:10:03:28 225 [Main.java] [ERROR] iiitb.ac.in.Main Factorial of negative numbers is not possible in catch!
+14/Mar/2021:10:03:35 726 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,-9.0
+14/Mar/2021:10:03:35 727 [Main.java] [ERROR] iiitb.ac.in.Main Log of negatives is not defined.
+14/Mar/2021:10:03:47 476 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :-4.0 ,2.0
+14/Mar/2021:10:03:47 477 [Main.java] [ERROR] iiitb.ac.in.Main Base should be positive integer. 
+14/Mar/2021:12:14:00 623 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,1000.0
+14/Mar/2021:12:14:00 645 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,1000.0
+14/Mar/2021:12:14:00 647 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:12:14:00 648 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:12:14:00 650 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:12:14:00 652 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:12:14:56 283 [Main.java] [ERROR] iiitb.ac.in.Main Factorial of negative numbers is not possible in catch!
+14/Mar/2021:12:16:05 648 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,1000.0
+14/Mar/2021:12:16:05 699 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10 ,1000.0
+14/Mar/2021:12:16:05 701 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:12:16:05 702 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :10.0 ,3.0
+14/Mar/2021:12:16:05 705 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:12:16:05 706 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:81.0
+14/Mar/2021:12:16:18 847 [Main.java] [INFO] iiitb.ac.in.Main Number for square root:-2.0
+14/Mar/2021:12:16:18 852 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 
+14/Mar/2021:12:16:24 655 [Main.java] [ERROR] iiitb.ac.in.Main Factorial of negative numbers is not possible in catch!
+14/Mar/2021:18:58:11 891 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:18:58:11 927 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:18:58:11 929 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:18:58:11 931 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:18:58:11 933 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:18:58:11 934 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:18:58:11 936 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:18:58:11 937 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:18:58:37 615 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[2.0]
+14/Mar/2021:18:58:41 083 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-2.0]
+14/Mar/2021:18:58:41 085 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-2.0]
+14/Mar/2021:18:58:49 477 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:18:58:54 709 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[-3.0]
+14/Mar/2021:18:58:54 710 [Main.java] [ERROR] iiitb.ac.in.Main Factorial of negative numbers is not possible in catch :[-3.0]
+14/Mar/2021:18:59:02 171 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,6.0]
+14/Mar/2021:18:59:06 340 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,-6.0]
+14/Mar/2021:18:59:06 342 [Main.java] [ERROR] iiitb.ac.in.Main Log of negatives is not defined :[-6.0]
+14/Mar/2021:18:59:27 742 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[3.0 ,5.0]
+14/Mar/2021:18:59:34 178 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[-3.0 ,5.0]
+14/Mar/2021:18:59:34 179 [Main.java] [ERROR] iiitb.ac.in.Main Base should be positive integer :[-3.0, 5.0]
+14/Mar/2021:20:33:37 420 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,2.0]
+14/Mar/2021:20:33:42 874 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[4.0 ,4.0]
+14/Mar/2021:22:18:59 479 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:18:59 515 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:18:59 517 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:18:59 517 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:18:59 519 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:22:18:59 520 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:22:18:59 521 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:22:18:59 522 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:22:53:20 417 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:53:20 454 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:53:20 457 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:53:20 459 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:53:20 460 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:22:53:20 462 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:22:53:20 463 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:22:53:20 464 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:22:55:21 208 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:55:21 213 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:22:55:21 214 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:55:21 215 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:22:55:21 216 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:22:55:21 217 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:22:55:21 219 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:22:55:21 221 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:15:08 625 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:15:08 634 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:25:50 404 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:25:50 420 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+14/Mar/2021:23:30:47 851 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:30:47 888 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+14/Mar/2021:23:30:47 899 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:23:30:47 900 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:23:30:47 901 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:23:30:47 902 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:23:30:47 904 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:23:30:47 904 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:23:30:47 905 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:30:47 906 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:40:41 145 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:40:41 176 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+14/Mar/2021:23:45:02 431 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:46:32 926 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:46:32 995 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:23:46:32 997 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+14/Mar/2021:23:46:32 999 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:23:46:33 000 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+14/Mar/2021:23:46:33 001 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+14/Mar/2021:23:46:33 002 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+14/Mar/2021:23:46:33 003 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:46:33 004 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+14/Mar/2021:23:47:02 924 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:49:15 345 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:50:12 034 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:50:12 042 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+14/Mar/2021:23:50:39 994 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:50:40 001 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+14/Mar/2021:23:51:04 639 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+14/Mar/2021:23:51:04 645 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+15/Mar/2021:00:06:02 952 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+15/Mar/2021:00:06:02 972 [Main.java] [ERROR] iiitb.ac.in.Main Square root can't be negative or 0 :[-9.0]
+15/Mar/2021:00:07:17 745 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+15/Mar/2021:00:08:15 063 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+15/Mar/2021:00:13:16 582 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
+15/Mar/2021:00:14:42 963 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[-9.0]
+15/Mar/2021:00:15:23 296 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,-9.0]
+15/Mar/2021:00:15:54 305 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[-9.0 ,1.0]
+15/Mar/2021:00:18:47 581 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[-9.0 ,1.0]
+15/Mar/2021:00:18:47 591 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,-9.0]
+15/Mar/2021:00:18:47 592 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+15/Mar/2021:00:18:47 593 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10 ,1000.0]
+15/Mar/2021:00:18:47 594 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+15/Mar/2021:00:18:47 595 [Main.java] [INFO] iiitb.ac.in.Main Base and exponent are :[10.0 ,3.0]
+15/Mar/2021:00:18:47 596 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[-9.0]
+15/Mar/2021:00:18:47 597 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[4.0]
+15/Mar/2021:00:18:47 598 [Main.java] [INFO] iiitb.ac.in.Main Number entered is :[3.0]
+15/Mar/2021:00:18:47 599 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+15/Mar/2021:00:18:47 600 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[81.0]
+15/Mar/2021:00:18:47 602 [Main.java] [INFO] iiitb.ac.in.Main Number for square root :[-9.0]
